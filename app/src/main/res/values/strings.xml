@@ -2,4 +2,6 @@
     <string name="app_name">TestingPresso</string>
     <string name="main_activity_title">Main Activity Title</string>
     <string name="next">Next</string>¡
+    <string name="back">Back</string>
+    <string name="welcome_back">Welcome Back </string>¡
 </resources>
